@@ -827,7 +827,7 @@
       iframe.frameBorder = "0";
       iframe.marginWidth = "0";
       iframe.marginHeight = "0";
-      iframe.scrolling = "yes";
+      iframe.scrolling = "auto";
       iframe.allowTransparency = "true";
       iframe.src = this.url;
 
